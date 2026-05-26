@@ -1,0 +1,6 @@
+{
+  "name": "checkpttt.yhctbl",
+  "description": "Ứng dụng phân tích dữ liệu lịch thực hiện thủ thuật y tế, tự động phát hiện và cảnh báo các sai sót như trùng lịch bệnh nhân hoặc trùng lịch bác sĩ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
